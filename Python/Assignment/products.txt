@@ -1,0 +1,3 @@
+apple|280
+banana|56
+guava|120
